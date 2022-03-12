@@ -1,5 +1,4 @@
-# Selenium cheat sheet
-> A Divinemonk creation!
+# Selenium cheatsheet
 
 <br>
 <hr>
@@ -64,3 +63,9 @@ To disable notifications, works Only in Chrome browser
 
 
 http://allselenium.info/python-selenium-commands-cheat-sheet-frequently-used/
+
+
+<br>
+<br>
+
+> A Divinemonk creation!
